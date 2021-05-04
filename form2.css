@@ -1,0 +1,4 @@
+span.texto{
+    font-size: <?php  echo $tam; ?>;
+    collor: <?php echo $cor; ?>;
+}
